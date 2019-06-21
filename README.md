@@ -7,7 +7,7 @@ TOPICOS|
 ------------ |
 1 - [Input e output](https://github.com/Ratarca/py2work-ECON/blob/master/%23Leituras/01%20-%20input%20e%20output%20-%20py2work.ipynb)|
 2 - [Tipo de variaveis](https://github.com/Ratarca/py2work-ECON/blob/master/%23Leituras/02%20-%20Tipos%20de%20variaveis%20-%20py2work%20.ipynb) |
-3 - Operadores matematicos e outros |
+3 - [Operadores matematicos e outros](https://github.com/Ratarca/py2work-ECON/blob/master/%23Leituras/03%20-%20operadores%20aritmeticos%20entre%20outros%20-%20py2work.ipynb) |
 4 - Estruturas logicas |
 5 - Estruturas de repeticao|
 6 - Coleçoes em python |
