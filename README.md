@@ -35,11 +35,11 @@ Resolucoes / |
 
 ### Youtube & Internet
 
-1.[Ignorancia Zero](https://www.youtube.com/channel/UCmjj41YfcaCpZIkU-oqVIIw)
-2.[Eduardo Mendes](https://www.youtube.com/user/mendesesduardo)
-3.[Data-Flair](https://data-flair.training/blogs/python-tutorials-home/)
-4.[Real Python](https://realpython.com/)
-5.[Kelvins : Padrões de projeto ](https://github.com/kelvins/design-patterns-python)
+1. [Ignorancia Zero](https://www.youtube.com/channel/UCmjj41YfcaCpZIkU-oqVIIw)
+2. [Eduardo Mendes](https://www.youtube.com/user/mendesesduardo)
+3. [Data-Flair](https://data-flair.training/blogs/python-tutorials-home/)
+4. [Real Python](https://realpython.com/)
+5. [Kelvins : Padrões de projeto ](https://github.com/kelvins/design-patterns-python)
 
 ### Livros
 1. [Pense em Python](https://www.amazon.com.br/Pense-Python-Como-Cientista-Computa%C3%A7%C3%A3o/dp/8575225081/ref=sr_1_6?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=python&qid=1561146517&s=gateway&sr=8-6)
