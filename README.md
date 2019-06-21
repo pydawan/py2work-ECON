@@ -29,5 +29,25 @@ TOPICOS|
 Exercicios / |
 Resolucoes / |
 
+## Bibliografia :book:
+
+ Gostaria de indicar alguns materiais que acredito serem altamente recomendaveis adjunto a isso gostaria de agradecer aos autores de tais obras pois sem eles não conseguiria compilar esse grau de informação sendo este trabalho uma tentativa de esclarecer topicos amplamentes bem estruturados em outras fontes mas sob a perspectiva de um estudante de economia que não teve nenhum contato anteriormente com a disciplina de programação.
+
+### Youtube & Internet
+
+1.[Ignorancia Zero](https://www.youtube.com/channel/UCmjj41YfcaCpZIkU-oqVIIw)
+2.[Eduardo Mendes](https://www.youtube.com/user/mendesesduardo)
+3.[Data-Flair](https://data-flair.training/blogs/python-tutorials-home/)
+4.[Real Python](https://realpython.com/)
+5.[Kelvins : Padrões de projeto ](https://github.com/kelvins/design-patterns-python)
+
+### Livros
+1. [Pense em Python](https://www.amazon.com.br/Pense-Python-Como-Cientista-Computa%C3%A7%C3%A3o/dp/8575225081/ref=sr_1_6?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=python&qid=1561146517&s=gateway&sr=8-6)
+2. [Automatize tarefas maçantes](https://www.amazon.com.br/Automatize-Tarefas-Ma%C3%A7antes-com-Python/dp/8575224468/ref=sr_1_5?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=python&qid=1561146517&s=gateway&sr=8-5)
+3. [Numerical methods in engineering with python](https://www.amazon.com.br/Numerical-Methods-Engineering-Python-English-ebook/dp/B01NBMYQZH/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=numerical+methods+in+engineering+python&qid=1561146665&s=gateway&sr=8-1)
+4. [A Primer on Scientific Programming with Python: Texts in Computational Science and Engineering](https://www.amazon.com.br/Primer-Scientific-Programming-Python-Computational-ebook/dp/B079BVNRNS/ref=sr_1_14?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=python+scientific&qid=1561146556&s=gateway&sr=8-14)
+
+### Cursos Online
+-
 
 [ NEXT ]
