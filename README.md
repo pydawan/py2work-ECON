@@ -4,6 +4,8 @@
   Vale ressaltar que nossos exemplos irão abordar temas práticos como finanças, economia, estatistica entre outros topicos práticos.
   
   Visite meus [**outros trabalhos**](https://github.com/Ratarca/ROCKSTAR-RATARCA) se conseguir claro!
+  
+  **PS: SÓ ACEITAREI CÓDIGOS DE RESOLUÇÃO DE LISTA NESTE REPOSITORIO AS LEITURAS SÃO FEITAS POR MIM**
 
 TOPICOS|
 ------------ |
