@@ -28,7 +28,7 @@ TOPICOS|
 19 - Execução paralela |
 20 - Testes automatizados|
 21 - Extra: POO vs Funcional|
-Exercicios / |
+[Exercicios /](https://github.com/Ratarca/py2work-ECON/tree/master/1_EXERCICIOS) |
 Resolucoes / |
 
 ## Bibliografia :book:
@@ -44,6 +44,7 @@ Resolucoes / |
 5. [Kelvins : Padrões de projeto ](https://github.com/kelvins/design-patterns-python)
 
 ### Livros
+0. [Documentacao Oficial](https://docs.python.org/3.8/library/index.html)
 1. [Pense em Python](https://www.amazon.com.br/Pense-Python-Como-Cientista-Computa%C3%A7%C3%A3o/dp/8575225081/ref=sr_1_6?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=python&qid=1561146517&s=gateway&sr=8-6)
 2. [Automatize tarefas maçantes](https://www.amazon.com.br/Automatize-Tarefas-Ma%C3%A7antes-com-Python/dp/8575224468/ref=sr_1_5?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=python&qid=1561146517&s=gateway&sr=8-5)
 3. [Numerical methods in engineering with python](https://www.amazon.com.br/Numerical-Methods-Engineering-Python-English-ebook/dp/B01NBMYQZH/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=numerical+methods+in+engineering+python&qid=1561146665&s=gateway&sr=8-1)
