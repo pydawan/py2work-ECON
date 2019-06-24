@@ -12,8 +12,8 @@ TOPICOS|
 1 - [Input e output](https://github.com/Ratarca/py2work-ECON/blob/master/%23Leituras/01%20-%20input%20e%20output%20-%20py2work.ipynb)|
 2 - [Tipo de variaveis](https://github.com/Ratarca/py2work-ECON/blob/master/%23Leituras/02%20-%20Tipos%20de%20variaveis%20-%20py2work%20.ipynb) |
 3 - [Operadores matematicos e outros](https://github.com/Ratarca/py2work-ECON/blob/master/%23Leituras/03%20-%20operadores%20aritmeticos%20entre%20outros%20-%20py2work.ipynb) |
-4 - Estruturas logicas |
-5 - Estruturas de repeticao|
+4 - [Estruturas decisão](https://github.com/Ratarca/py2work-ECON/blob/master/%23Leituras/04%20-%20Estruturas%20Logicas%20-%20py2work.ipynb) |
+5 - [Estruturas de repeticao](https://github.com/Ratarca/py2work-ECON/blob/master/%23Leituras/05%20-%20Estrutura%20de%20repeti%C3%A7%C3%A3o%20-%20py2work.ipynb)|
 6 - Coleçoes em python |
 7 - Funcoes |
 8 - Comprehension |
@@ -31,7 +31,7 @@ TOPICOS|
 20 - Testes automatizados|
 21 - Extra: POO vs Funcional|
 [Exercicios /](https://github.com/Ratarca/py2work-ECON/tree/master/1_EXERCICIOS) |
-Resolucoes / |
+[Resolucoes /](https://github.com/Ratarca/py2work-ECON/tree/master/2_RESOLUCAO) |
 
 ## Bibliografia :book:
 
