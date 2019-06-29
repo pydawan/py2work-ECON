@@ -14,7 +14,7 @@ TOPICOS|
 3 - [Operadores matematicos e outros](https://github.com/Ratarca/py2work-ECON/blob/master/%23Leituras/03%20-%20operadores%20aritmeticos%20entre%20outros%20-%20py2work.ipynb) |
 4 - [Estruturas decisão](https://github.com/Ratarca/py2work-ECON/blob/master/%23Leituras/04%20-%20Estruturas%20Logicas%20-%20py2work.ipynb) |
 5 - [Estruturas de repeticao](https://github.com/Ratarca/py2work-ECON/blob/master/%23Leituras/05%20-%20Estrutura%20de%20repeti%C3%A7%C3%A3o%20-%20py2work.ipynb)|
-6 - Coleçoes em python |
+6 - [Coleçoes em python](https://github.com/Ratarca/py2work-ECON/blob/master/%23Leituras/06%20-%20Cole%C3%A7%C3%B5es%20I%20-%20py2work.ipynb) |
 7 - Funcoes |
 8 - Comprehension |
 9 - Lambda e funcoes integradas|
